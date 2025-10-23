@@ -18,8 +18,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=I'm+Micha%C5%82+Pro%C4%87+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Python+%7C+Django+%7C+Flask+%7C+FastAPI+%F0%9F%90%8D;React.js+%7C+Next.js+%E2%9A%9B%EF%B8%8F;ROS+2+%7C+MATLAB+%7C+Simulink+%F0%9F%A4%96;PHP+%7C+Laravel+%F0%9F%90%98;Erlang+%7C+Elixir+%F0%9F%92%9C;Java+%7C+Kotlin+%E2%98%95;Docker+%7C+Kubernetes+%F0%9F%90%B3;AWS+%7C+RabbitMQ+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
-  
-### 👨‍💻 About Me</b>
+
+<div align="center">
+  ### 👨‍💻 About Me
+</div>
 
 <div style="text-align: justify; margin: 30px 120px; line-height: 1.8; font-size: 16px">
 
