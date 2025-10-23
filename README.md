@@ -21,7 +21,9 @@
 
 <div align="center">
   
-## 👨‍💻 About Me
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
 
 </div>
 
