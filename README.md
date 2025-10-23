@@ -22,7 +22,7 @@
 <div align="center">
   
 <div align="center">
-  <span style="font-size: 24px; font-weight: bold;">👨‍💻 About Me</span>
+  <b style="font-size: 22px; margin: 30px 120px;">👨‍💻 About Me</b>
 </div>
 
 </div>
