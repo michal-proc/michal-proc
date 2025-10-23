@@ -22,7 +22,7 @@
 <div align="center">
   
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
+  <span style="font-size: 24px; font-weight: bold;">👨‍💻 About Me</span>
 </div>
 
 </div>
@@ -33,9 +33,7 @@
 
 💻 Primarily focused on **backend architecture**, **Cloud infrastructure**, and **DevOps**, with occasional frontend development work.
 
-🚀 Passionate about exploring **robotics**, **distributed systems**, and **AI/ML** - always eager to dive into challenging technical problems and innovative solutions.
-
-📫 Open to collaboration on interesting projects and connecting with fellow developers!
+🚀 Passionate about exploring **robotics**, **distributed systems**, and **AI/ML**.
 
 </div>
 
