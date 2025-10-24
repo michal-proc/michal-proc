@@ -25,7 +25,7 @@
 
 </div>
 
-<div style="text-align: justify; margin: 30px 200px; line-height: 1.8; font-size: 16px">
+<div align="center" width="50%">
 
 🎓 Fourth-year Computer Science student at AGH University of Kraków with over three years of professional software engineering experience.
 
