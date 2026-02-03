@@ -27,7 +27,7 @@
 
 <div align="center" width="50%">
 
-🎓 Fourth-year Computer Science student at AGH University of Kraków with over three years of professional software engineering experience.
+🎓 Software Engineer and Computer Science BSc graduate with over four years of professional software engineering experience.
 
 💻 Primarily focused on **backend architecture**, **Cloud infrastructure**, and **DevOps**, with occasional frontend development work.
 
