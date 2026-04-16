@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display:inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="fastapi logo"  />
@@ -37,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display:inline-block;">
   <a href="https://discord.com/users/492424673863139350" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
